@@ -11,7 +11,7 @@ Project 3: Online Examination System
 
 Project 1: Guess the Number Game
 
-The Guess the Number Game is a simple console-based game where the system randomly generates a number, and the user has to guess it within a limited number of attempts. After each guess, the system provides feedback on whether the guess was too high or too low.
+The Guess the Number Game is a simple console-based game where the system randomly generates a number, and the user has to guess it within a limited number of attempts. After each guess, the system provides feedback on whether the guess was too high or too high.
 
 Features:
 
